@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67092341555",
+    "project_id": "houefasense",
+    "storage_bucket": "houefasense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67092341555:android:965c8aa70e3f0bcd969446",
+        "android_client_info": {
+          "package_name": "com.example.houefasense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48iOwFHC4wyErExS_eXytxrcg6KErP1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
